@@ -1,0 +1,7 @@
+{
+  "name": "MIA Digital - AI Ads for Producers",
+  "description": "A professional landing page and AI-powered demo that transforms casual product photos into premium advertisements via a WhatsApp-style interface using Gemini 3.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
